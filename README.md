@@ -131,10 +131,4 @@ It helps more learners understand combinatorial growth in machine learning.
 
 ---
 
-If you'd like, I can also generate:
 
-✔ A GitHub banner
-✔ Animated GIF of the plots
-✔ A Medium article based on this README
-
-Just tell me!
